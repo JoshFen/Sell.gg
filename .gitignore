@@ -1,1 +1,4 @@
 /bin/
+src/com/ebay/Constants.java
+src/com/ebay/FindingController.java
+src/com/ebay/WatchingController.java
